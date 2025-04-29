@@ -46,8 +46,9 @@ To run the project locally, download the dataset from Kaggle and move the images
 
 ### Step 1: Set Up the Kaggle Environment
 1. Log in to your Kaggle account.
-2. Create a new Kaggle notebook.
-3. Enable GPU acceleration for faster training. Go to **Settings** > **Accelerator** and select the **P100 GPU**. 
+2. Create a new Kaggle notebook and import the notebook.
+3. Importing the notebook may cause issues. If issues occur, create a new notebook, copy each cell, and run the notebook.
+4. Enable GPU acceleration for faster training. Go to **Settings** > **Accelerator** and select the **P100 GPU**. 
 
 ### Step 2: Add the Dataset
 1. Navigate to the **Add Data** section in your Kaggle notebook.
